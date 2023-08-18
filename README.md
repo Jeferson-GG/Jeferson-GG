@@ -4,7 +4,7 @@
     <span> Perfil Dio Developer Trainee/Junior </span>
 </h1>
 
-  Aqui você confere uma lista de exemplos desenvolvida pela comunidade. Veja abaixo um exemplo simples de como você pode criar o seu Profile README para o Desafio da [Digital Innovation One](https://www.dio.me/) e faça a sua contribuição 😉🚀.
+Desafio da [Digital Innovation One](https://www.dio.me/) 😉🚀.
 
 
 ---
