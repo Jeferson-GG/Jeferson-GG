@@ -1,7 +1,7 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Perfil Dio Developer Trainee/Junior </span>
+    <span> Perfil Dio Developer</span>
 </h1>
 
 Desafio da [Digital Innovation One](https://www.dio.me/) 😉🚀.
