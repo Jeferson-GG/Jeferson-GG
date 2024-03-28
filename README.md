@@ -11,11 +11,11 @@ Desafio da [Digital Innovation One](https://www.dio.me/) 😉🚀.
 
 # Jeferson Gomes
 
-# Sobre Mim
+### Sobre Mim
 
 Sou um desenvolvedor web apaixonado por criar experiências digitais envolventes e interativas. Com uma sólida base em tecnologias front-end e back-end, especializei-me na construção de aplicações web dinâmicas que oferecem interfaces ricas e performáticas aos usuários. Minha jornada no desenvolvimento web é alimentada por uma busca contínua por aprendizado e uma dedicação em aplicar as melhores práticas e tecnologias mais atuais no meu trabalho.
 
-# Habilidades Técnicas
+### Habilidades Técnicas
 
 Desenvolvimento Front-End: Proficiente em HTML5, CSS3 e JavaScript, eu crio estruturas de página web intuitivas e formulários interativos, empregando técnicas responsivas para garantir uma excelente experiência do usuário em dispositivos móveis e desktops. Experiente no uso de solicitações AJAX para desenvolver aplicações web dinâmicas, permitindo a comunicação assíncrona com o servidor e atualizações de página sem recarga.
 
