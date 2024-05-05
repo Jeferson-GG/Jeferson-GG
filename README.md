@@ -27,7 +27,7 @@ Sou um desenvolvedor web apaixonado por criar experiências digitais envolventes
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/jefersonogomes?tab=skills)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:Jefesonogomes@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/jeferson-gomes-a8304726b/)
-[![Portfólio](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://ggdevs.tech/)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&)](https://ggdevs.tech/)
 
 
 ### Habilidades
