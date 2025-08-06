@@ -46,3 +46,5 @@ Minha missão é criar sistemas performáticos, seguros e escaláveis, aplicando
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeferson-GG&theme=transparent&bg_color=000&border_color=FF0000&show_icons=true&icon_color=30A3DC&title_color=FF0000&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jeferson-GG&layout=compact&bg_color=000&border_color=FF0000&title_color=FF0000&text_color=FFF)
+
+> Quer ler esse perfil em inglês? Confira o arquivo [README_EN.md](README_EN.md)
