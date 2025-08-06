@@ -1,11 +1,11 @@
 <h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Perfil Dio Developer</span>
+  <a href="https://www.dio.me/">
+    <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png">
+  </a>
+  <span> Perfil Dio Developer</span>
 </h1>
 
 Desafio da [Digital Innovation One](https://www.dio.me/) 😉🚀.
-
 
 ---
 
@@ -13,15 +13,21 @@ Desafio da [Digital Innovation One](https://www.dio.me/) 😉🚀.
 
 ### Sobre Mim
 
-Sou um desenvolvedor web apaixonado por criar experiências digitais envolventes e interativas. Com uma sólida base em tecnologias front-end e back-end, especializei-me na construção de aplicações web dinâmicas que oferecem interfaces ricas e performáticas aos usuários. Minha jornada no desenvolvimento web é alimentada por uma busca contínua por aprendizado e uma dedicação em aplicar as melhores práticas e tecnologias mais atuais no meu trabalho.
+Desenvolvedor Full Stack com formação em **Gestão da Tecnologia da Informação (Tecnólogo)** e experiência prática em desenvolvimento web, aplicações inteligentes e infraestrutura. Entrego soluções completas, desde o desenvolvimento até o deploy em produção, utilizando Inteligência Artificial aplicada, automação e DevOps.
+
+Atuo com backend, frontend, integração de APIs, configuração de ambientes Linux e gerenciamento de containers com Docker e Portainer. Também sou especialista em proxies reversos com Nginx para garantir escalabilidade e segurança das aplicações.
+
+Minha missão é criar sistemas performáticos, seguros e escaláveis, aplicando as melhores práticas e tecnologias atuais para oferecer a melhor experiência aos usuários.
 
 ### Habilidades Técnicas
 
-**Desenvolvimento Front-End:** Proficiente em HTML5, CSS3 e JavaScript, eu crio estruturas de página web intuitivas e formulários interativos, empregando técnicas responsivas para garantir uma excelente experiência do usuário em dispositivos móveis e desktops. Experiente no uso de solicitações AJAX para desenvolver aplicações web dinâmicas, permitindo a comunicação assíncrona com o servidor e atualizações de página sem recarga.
+**Desenvolvimento Full Stack:** JavaScript (Node.js, React, Next.js), Python, APIs REST, integração com gateways de pagamento e microserviços.
 
-**Desenvolvimento Back-End:** Com um conhecimento avançado em PHP, desenvolvo lógicas de servidor robustas e seguras. Especializei-me na criação de conexões eficientes com bancos de dados utilizando MySQLi, garantindo a segurança e a integridade dos dados. Sou capaz de implementar autenticação de usuário, gestão de sessões e validações de entrada, assegurando uma base sólida para aplicações web.
+**Inteligência Artificial:** Uso prático de IA para automação, chatbots e melhoria de processos, aplicando modelos e APIs modernas.
 
-**Gestão de Banco de Dados:** Habilidoso na modelagem e no gerenciamento de bancos de dados, utilizo MySQL para armazenar, recuperar e manipular dados de forma eficiente. Minha experiência inclui a criação de estruturas de banco de dados otimizadas e a implementação de práticas de segurança para proteger contra vulnerabilidades como injeção de SQL.
+**Infraestrutura e DevOps:** Gestão de containers com Docker e Portainer, configuração de proxy reverso com Nginx, deploy automatizado, CI/CD e ambientes Linux.
+
+**Banco de Dados:** MongoDB, PostgreSQL, modelagem e otimização de dados.
   
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/jefersonogomes?tab=skills)
