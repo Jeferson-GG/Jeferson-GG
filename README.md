@@ -13,7 +13,7 @@ Desafio da [Digital Innovation One](https://www.dio.me/) 😉🚀.
 
 ### Sobre Mim
 
-Desenvolvedor Full Stack com formação em **Gestão da Tecnologia da Informação (Tecnólogo)** e experiência prática em desenvolvimento web, aplicações inteligentes e infraestrutura. Entrego soluções completas, desde o desenvolvimento até o deploy em produção, utilizando Inteligência Artificial aplicada, automação e DevOps.
+Desenvolvedor Full Stack com formação em **Gestão da Tecnologia da Informação** e experiência prática em desenvolvimento web, aplicações inteligentes e infraestrutura. Entrego soluções completas, desde o desenvolvimento até o deploy em produção, utilizando Inteligência Artificial aplicada, automação e DevOps.
 
 Atuo com backend, frontend, integração de APIs, configuração de ambientes Linux e gerenciamento de containers com Docker e Portainer. Também sou especialista em proxies reversos com Nginx para garantir escalabilidade e segurança das aplicações.
 
