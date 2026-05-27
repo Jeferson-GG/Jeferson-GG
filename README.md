@@ -1,3 +1,5 @@
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -20,17 +22,7 @@
 
 ---
 
-## 🐍 Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Jeferson-GG/Jeferson-GG/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológica
 
 <div align="center">
 
@@ -66,33 +58,11 @@
 
 ---
 
-## 🌐 Portfólio
+## 🐍 Snake Animation
 
 <div align="center">
 
-<a href="https://jeferson-full-stack-automation-wbnm.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_Acessar_Portfólio-FF0000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 👨‍💻 Conecte-se comigo
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/jeferson-gomes-a8304726b/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC"/>
-</a>
-
-<a href="mailto:Jefesonogomes@gmail.com">
-<img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=FF0000"/>
-</a>
-
-<a href="https://web.dio.me/users/jefersonogomes?tab=skills" target="_blank">
-<img src="https://img.shields.io/badge/DIO-000?style=for-the-badge&logo=diagramsdotnet&logoColor=30A3DC"/>
-</a>
+<img src="https://raw.githubusercontent.com/Jeferson-GG/Jeferson-GG/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
