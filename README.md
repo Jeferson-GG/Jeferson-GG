@@ -23,10 +23,6 @@ Minha missão é desenvolver sistemas performáticos, seguros e escaláveis, ent
 
 ---
 
-## 🚀 Portfólio
-
-🔗 **Acesse meu portfólio:**  
-[https://jeferson-full-stack-automation-wbnm.vercel.app/](https://jeferson-full-stack-automation-wbnm.vercel.app/)
 
 ---
 
